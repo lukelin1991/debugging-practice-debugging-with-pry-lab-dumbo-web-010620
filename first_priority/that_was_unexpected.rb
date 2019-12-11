@@ -1,4 +1,5 @@
 require 'pry'
+require 'class'
 
 class Person
   attr_accessor :name, :candy_lover
